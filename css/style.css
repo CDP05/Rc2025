@@ -15,6 +15,25 @@
   box-sizing: border-box;
 }
 
+.gift {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 1.75em;
+  color: #888;
+  margin: 0 0 20px;
+  text-align: center;
+}
+
+.gift {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+
 p {
     font-family: "Nunito Sans", sans-serif;
     font-size: 15px;
